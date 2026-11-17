@@ -1,0 +1,16 @@
+cliente-empleados/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Login.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── Departamentos.jsx
+│   │   ├── Empleados.jsx
+│   │   └── Reportes.jsx
+│   ├── services/
+│   │   └── api.js
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+└── tailwind.config.js (o estilos base)

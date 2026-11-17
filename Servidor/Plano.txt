@@ -1,0 +1,20 @@
+api-empleados/
+├── src/
+│   ├── config/
+│   │   └── db.js
+│   ├── controllers/
+│   │   ├── auth.controller.js
+│   │   ├── depto.controller.js
+│   │   ├── empleado.controller.js
+│   │   └── reporte.controller.js
+│   ├── middlewares/
+│   │   ├── auth.middleware.js
+│   │   └── validator.middleware.js
+│   ├── routes/
+│   │   ├── auth.routes.js
+│   │   ├── depto.routes.js
+│   │   ├── empleado.routes.js
+│   │   └── reporte.routes.js
+│   └── app.js
+├── package.json
+└── .env
